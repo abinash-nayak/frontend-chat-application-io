@@ -6,11 +6,11 @@ Join virtual chat rooms and share messages among other members of the room. Simp
 
 This chat applications support the following features :
 
-0 : This app is responsive with desktop, tablet & mobile compatibility.
-1 : Support emojis. Simple type in emoji referencing text like :) and that will be converted to emoji in the chat.
-2 : 2 persons with same name wont be allowed to enter the same room. You will get a prompt for the same.
-3 : In desktop view you will be able to see all the active members of the room.
-4 : Notification message every time someone new enter the room or if someone leave the room.
+0 : This app is responsive with desktop, tablet & mobile compatibility.<br />
+1 : Support emojis. Simple type in emoji referencing text like :) and that will be converted to emoji in the chat.<br />
+2 : 2 persons with same name wont be allowed to enter the same room. You will get a prompt for the same.<br />
+3 : In desktop view you will be able to see all the active members of the room.<br />
+4 : Notification message every time someone new enter the room or if someone leave the room.<br />
 5 : Simple & Elegant User Interface.
 
 Both the backend code base and the forntend code base is hosted in Heroku.
