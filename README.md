@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a real time chat application built with socket.io & node.js in the backend and with React in the frontend.
+
+Join virtual chat rooms and share messages among other members of the room. Simply type in your name/nick-name/preferred-name along with the room name you want to join to get access to the room and you are good to go. If you want to create a room simply follow the same steps and if a room is not present it will create a new room with the name specified and then share the same across other members whom you want to join the same room.
+
+This chat applications support the following features :
+
+0 : This app is responsive with desktop, tablet & mobile compatibility.
+1 : Support emojis. Simple type in emoji referencing text like :) and that will be converted to emoji in the chat.
+2 : 2 persons with same name wont be allowed to enter the same room. You will get a prompt for the same.
+3 : In desktop view you will be able to see all the active members of the room.
+4 : Notification message every time someone new enter the room or if someone leave the room.
+5 : Simple & Elegant User Interface.
+
+Both the backend code base and the forntend code base is hosted in Heroku.
+
+Catch the live action : https://chat-application-socket-io.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
