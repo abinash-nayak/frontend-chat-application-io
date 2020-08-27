@@ -54,7 +54,7 @@ const Chat = ({ location, ...props }) => {
   };
 
   return (
-    <div className="outerContainer">
+    <div className="outerContainer" style={{ height: window.innerHeight }}>
       <div className="container">
         <InfoBar room={room} />
         <Messages messages={messages} name={name} />
