@@ -4,7 +4,7 @@ This is a real time chat application built with socket.io & node.js in the backe
 
 Join virtual chat rooms and share messages among other members of the room. Simply type in your name/nick-name/preferred-name along with the room name you want to join to get access to the room and you are good to go. If you want to create a room simply follow the same steps and if a room is not present it will create a new room with the name specified and then share the same across other members whom you want to join the same room.
 
-This chat applications support the following features :
+This chat application support the following features :
 
 0 : This app is responsive with desktop, tablet & mobile compatibility.<br />
 1 : Support emojis. Simple type in emoji referencing text like :) and that will be converted to emoji in the chat.<br />
