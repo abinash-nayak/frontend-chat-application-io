@@ -34,8 +34,4 @@
   .container {
     width: 60%;
   }
-
-  .outerContainer .footer {
-    display: none;
-  }
 }
