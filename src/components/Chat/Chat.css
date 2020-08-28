@@ -15,6 +15,21 @@
   width: 35%;
 }
 
+.activeMembersOuterContainer {
+  height: 100%;
+  background-color: #dadada9d;
+}
+
+.activeMembersContainer {
+  padding: 2%;
+}
+
+.activeMemberItem {
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
 @media (min-width: 320px) and (max-width: 480px) {
   .outerContainer {
     height: 100vh;

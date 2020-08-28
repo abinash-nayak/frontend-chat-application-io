@@ -26,3 +26,20 @@
 .onlineIcon {
   margin-right: 5%;
 }
+
+.faceIcon {
+  margin-left: 5%;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.closeIcon {
+  cursor: pointer;
+}
+
+@media (min-width: 1200px) {
+  .faceIcon {
+    display: none;
+  }
+}
