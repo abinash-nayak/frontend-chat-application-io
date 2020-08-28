@@ -70,6 +70,12 @@ body {
   justify-content: space-evenly;
 }
 
+@media (min-height: 300px) and (max-height: 500px) {
+  .heading {
+    font-size: 1.5em;
+  }
+}
+
 @media (min-width: 320px) and (max-width: 480px) {
   .joinOuterContainer {
     height: 100%;
